@@ -19,11 +19,11 @@ This project includes a comprehensive trading platform with various functionalit
 
 2. Navigate to the project directory:
 
-cd the5ers
+`cd the5ers`
 
 3. Install dependencies:
 
-npm install
+`npm install`
 
 ## Contributing
 
